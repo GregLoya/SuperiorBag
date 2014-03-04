@@ -1,0 +1,1 @@
+﻿directory.setLoginListener('myLogin','Admin'); //advanced login listener
