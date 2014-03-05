@@ -1,5 +1,10 @@
 ﻿{
 	"serverType": "github",
 	"gitURL": "https://github.com/Noodleloaf",
+<<<<<<< Updated upstream
 	"gitIsPrivateRepository": "false"
+=======
+	"gitEmail": "greg@objectivesystems.com",
+	"gitIsPrivateRepository": "true"
+>>>>>>> Stashed changes
 }
